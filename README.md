@@ -11,7 +11,9 @@ You can visit this [*website*](https://www.atlassian.com/blog/inside-atlassian/g
 
 ![](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
 
-At the end everyone should have a growth mindset to get to his goals and the ~~fixed mindset~~ should not be existed in your life, and as I say `The result is irrelevant because the effort was there.`
+At the end everyone should have a growth mindset to get to his goals and the ~~fixed mindset~~ should not be existed in your life.
+
+`The result is irrelevant because the effort was there.`
 
 Good luck in your life and keep being positive. 
 ```
