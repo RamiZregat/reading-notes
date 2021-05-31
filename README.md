@@ -1,1 +1,1 @@
-# reading-notes
+# <span style="color:red"> Growth Mindset</span>
