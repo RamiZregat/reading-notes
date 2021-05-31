@@ -7,7 +7,7 @@
 - Foucs on gaining informations and skills no matter how tiredness it get, as they say `No pain No gain.`
 - Take every criticism as a lesson and learn from them as a new experiences rather than feel failure about ur self.
 
-You can visit this [*website*](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to learn more about **growth mindset**
+You can visit this [*website*](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) to learn more about **Growth Mindset**
 
 ![](https://www.screwtheninetofive.com/wp-content/uploads/2020/01/Blog-Jan-9_-Featured.png)
 
