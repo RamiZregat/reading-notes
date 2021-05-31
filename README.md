@@ -23,5 +23,4 @@ I'm fresh graduated civil engineering.
 I'm Looking to learn programming and coding.
 ```
 
-* rami
-- rami
+> rami
