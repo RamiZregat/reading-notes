@@ -14,3 +14,9 @@ You can visit this [*website*](https://www.atlassian.com/blog/inside-atlassian/g
 At the end everyone should have a growth mindset to get to his goals and the ~~fixed mindset~~ should not be existed in your life, and as I say `The result is irrelevant because the effort was there.`
 
 Good luck in your life and keep being positive. 
+```
+My name is Rami Zregat.
+I'm 24 years old.
+I'm fresh graduated civil engineering.
+I'm Looking to learn programming and coding.
+```
