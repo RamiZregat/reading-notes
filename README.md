@@ -2,7 +2,7 @@
 
 **Growth Mindset** is the development of fundamental abilities and its allows you to proceed further towards your goals, and when you fail it allow you to foucs more on proceeding on improving your skills more than feel bad about your self.
 
-### There is some reminders to keep yourself in a growth mindset :
+### There is some reminders to keep yourself in a Growth Mindset :
 - Nevergive up.
 - Foucs on gaining informations and skills no matter how tiredness it get, as they say `No pain No gain.`
 - Take every criticism as a lesson and learn from them as a new experiences rather than feel failure about ur self.
