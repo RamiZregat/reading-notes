@@ -12,6 +12,7 @@
  **This table has the content that we have been learning so far:**
 
 ## Table of content:
+
 Page|Topic
 ----|-----
 1|[Growth Mind](https://ramizregat.github.io/reading-notes/growthmind)
