@@ -20,4 +20,5 @@ Page|Topic
 3|[Revision Cloud](https://ramizregat.github.io/reading-notes/Revision%20Cloud)
 4|[My Document about CLI](https://ramizregat.github.io/reading-notes/DocumentYourReadings)
 5|[Structure web pages with HTML](https://ramizregat.github.io/reading-notes/Structure-web-pages-with-HTML)
+6|[Dunamic web pages with JavaScript](https://ramizregat.github.io/reading-notes/Dynamic%20web%20pages%20with%20JavaScript)
 
