@@ -7,15 +7,16 @@
 
 
 * The following code shows a very simple CSS rule that would achieve the styling described above:
-```
 
+
+```
  h1 {
     color: red;
     font-size: 5em;
 }
 ```
 
-  * The rule opens with a selector . This selects the **HTML** element that we are going to style. In this case we are styling level one headings (`<h1>`).
+  * The rule opens with a selector . This selects the **HTML** element that we are going to style. In this case we are styling level one headings (h1).
 
   
 
@@ -30,9 +31,9 @@
 
 * **External CSS:** With an external style sheet, you can change the look of an entire    website by changing just one file.  
 
-Each **HTML** page must include a reference to the external style sheet file inside the `<link>` element, inside the head section.
+Each **HTML** page must include a reference to the external style sheet file inside the link element, inside the head section.
 
-* **Example** external styles are defined within the `<link>` element, inside the `<head>` section of an **HTML** page:
+* **Example** external styles are defined within the link element, inside the head section of an **HTML** page:
 
 
 ```
@@ -52,9 +53,9 @@ Each **HTML** page must include a reference to the external style sheet file ins
 
 * **Internal CSS:** An internal style sheet may be used if one single **HTML** page has a unique style.
 
-The internal style is defined inside the `<style>` element, inside the head section.
+The internal style is defined inside the style element, inside the head section.
 
-* **Example** internal styles are defined within the `<style>` element, inside the `<head>` section of an HTML page:
+* **Example** internal styles are defined within the style element, inside the head section of an HTML page:
 
 
 ```
