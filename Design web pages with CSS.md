@@ -7,12 +7,14 @@
 
 
 * The following code shows a very simple CSS rule that would achieve the styling described above:
- ```
+```
+
  h1 {
     color: red;
     font-size: 5em;
 }
- ```
+```
+
   * The rule opens with a selector . This selects the **HTML** element that we are going to style. In this case we are styling level one headings (`<h1>`).
 
   
@@ -31,6 +33,8 @@
 Each **HTML** page must include a reference to the external style sheet file inside the `<link>` element, inside the head section.
 
 * **Example** external styles are defined within the `<link>` element, inside the `<head>` section of an **HTML** page:
+
+
 ```
 <!DOCTYPE html>
 <html>
@@ -44,13 +48,15 @@ Each **HTML** page must include a reference to the external style sheet file ins
 
 </body>
 </html>
-``` 
+```
 
 * **Internal CSS:** An internal style sheet may be used if one single **HTML** page has a unique style.
 
 The internal style is defined inside the `<style>` element, inside the head section.
 
 * **Example** internal styles are defined within the `<style>` element, inside the `<head>` section of an HTML page:
+
+
 ```
 <!DOCTYPE html>
 <html>
@@ -80,6 +86,8 @@ h1 {
 To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
 * **Example** inline styles are defined within the "style" attribute of the relevant element:
+
+
 ```
 <!DOCTYPE html>
 <html>
