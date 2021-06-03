@@ -22,3 +22,4 @@ Page|Topic
 5|[Structure web pages with HTML](https://ramizregat.github.io/reading-notes/Structure-web-pages-with-HTML)
 6|[Dunamic web pages with JavaScript](https://ramizregat.github.io/reading-notes/Dynamic%20web%20pages%20with%20JavaScript)
 7|[Operators and Loops](https://ramizregat.github.io/reading-notes/Operators%20and%20Loops)
+8|[Design web pages with CSS]()
