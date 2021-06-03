@@ -21,7 +21,7 @@
   
 
 
-* **How To Add CSS:** When a browser reads a *style sheet*, it will format the **HTML **document according to the information in the *style sheet*.
+* **How To Add CSS:** When a browser reads a *style sheet*, it will format the **HTML** document according to the information in the *style sheet*.
 
 
 * **there is three ways to insert _CSS_:**
