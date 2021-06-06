@@ -23,3 +23,4 @@ Page|Topic
 6|[Dynamic web pages with JavaScript](https://ramizregat.github.io/reading-notes/Dynamic%20web%20pages%20with%20JavaScript)
 7|[Operators and Loops](https://ramizregat.github.io/reading-notes/Operators%20and%20Loops)
 8|[Design web pages with CSS](https://ramizregat.github.io/reading-notes/Design%20web%20pages%20with%20CSS)
+9| [Programming with JavaScript.md](https://ramizregat.github.io/reading-notes/Programming%20with%20JavaScript)
