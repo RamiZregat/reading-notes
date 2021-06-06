@@ -22,7 +22,7 @@ if (field==empty) {
 * A JavaScript function is a block of code designed to perform a particular task.
 
 
-* ** JavaScript Function Syntax:** A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+* **JavaScript Function Syntax:** A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
 The code to be executed, by the function, is placed inside curly brackets: {}.
 
 
