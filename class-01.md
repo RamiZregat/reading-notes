@@ -2,8 +2,6 @@
 
 ## HTML
 
-### HTML Introduction 
-
 
  **- What is HTML:**
  * HTML stands for **H**yper **T**ext **M**arkup **L**anguage.
