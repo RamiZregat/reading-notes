@@ -2,6 +2,8 @@
 
 ## HTML
 
+### HTML Introduction 
+
 
  **- What is HTML:**
  * HTML stands for **H**yper **T**ext **M**arkup **L**anguage.
@@ -52,6 +54,8 @@ It divides and categorizes the work and then breaks these high-level sections in
 
 
 ## JavaScript 
+
+### JS Introduction 
 
 **- JavaScript:** is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where *HTML* and *CSS* are languages that give structure and style to web pages, *JavaScript* gives web pages interactive elements that engage a user.
 

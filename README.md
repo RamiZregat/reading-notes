@@ -1,4 +1,5 @@
-# Introduction:
+# Code 102 Reading Notes
+## Introduction:
 
 - **My name is**: Rami Zregat.
 
@@ -23,4 +24,16 @@ Page|Topic
 6|[Dynamic web pages with JavaScript](https://ramizregat.github.io/reading-notes/Dynamic%20web%20pages%20with%20JavaScript)
 7|[Operators and Loops](https://ramizregat.github.io/reading-notes/Operators%20and%20Loops)
 8|[Design web pages with CSS](https://ramizregat.github.io/reading-notes/Design%20web%20pages%20with%20CSS)
-9| [Programming with JavaScript.md](https://ramizregat.github.io/reading-notes/Programming%20with%20JavaScript)
+9| [Programming with JavaScript](https://ramizregat.github.io/reading-notes/Programming%20with%20JavaScript)
+
+
+# Code 201 Reading Notes
+
+## Table of content:
+
+**This table has the content that we have been learning so far:**
+
+Page|Topic
+----|-----
+1| [Introductory HTML and JavaScript](https://ramizregat.github.io/reading-notes/class-01)
+2|
