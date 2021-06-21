@@ -35,5 +35,6 @@ Page|Topic
 
 Page|Topic
 ----|-----
-1| [Introductory HTML and JavaScript Class-01.](https://ramizregat.github.io/reading-notes/class-01)
-2|[HTML Text, CSS Introduction, and Basic JavaScript Instructions Class-02.](https://ramizregat.github.io/reading-notes/class-02)
+1| [Introductory HTML and JavaScript Read:01.](https://ramizregat.github.io/reading-notes/class-01)
+2|[HTML Text, CSS Introduction, and Basic JavaScript Instructions Read:02.](https://ramizregat.github.io/reading-notes/class-02)
+3|[HTML Lists, CSS Boxes, JS Control Flow](https://ramizregat.github.io/reading-notes/class-03)
