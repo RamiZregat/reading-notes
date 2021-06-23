@@ -3,7 +3,7 @@
 **- The use of HTML Images:** 
 * Images can improve the design and the appearance of a web page.
 
-**- Typical formula for images in __HTML__ (Syntax):**
+**- Typical formula for images in HTML _(Syntax)_:**
 ```
 <img src="url" alt="alternatetext">
 ```
