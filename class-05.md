@@ -55,7 +55,7 @@
 
  **-** This table will summarize text effect properties:
 
- Propert|Description
+ Property|Description
  -------|----------
  text-align-last|Specifies how to align the last line of a text.
  text-justify|Specifies how justified text should be aligned and spaced.
