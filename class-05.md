@@ -43,7 +43,7 @@
 * Hexadecimal Colors: A hexadecimal color is specified with: #RRGGBB.
 
 
-# CSS Text
+## CSS Text
 **- CSS** has a lot of properties for formatting text some of this properties: 
 * CSS Text Overflow: The **CSS** `text-overflow` property specifies how overflowed content that is not displayed should be signaled to the user.
 
