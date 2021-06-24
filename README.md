@@ -40,3 +40,4 @@ Page|Topic
 3|[HTML Lists, CSS Boxes, JS Control Flow Read:03.](https://ramizregat.github.io/reading-notes/class-03)
 4|[HTML Links, CSS Layout, JS Functions Read:04.](https://ramizregat.github.io/reading-notes/class-04)
 5|[HTML Images; CSS Color & Text Read:05.](https://ramizregat.github.io/reading-notes/class-05)
+6|[JS Object Literals, The DOM Read:06.](https://ramizregat.github.io/reading-notes/class-06)
