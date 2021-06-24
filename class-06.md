@@ -25,6 +25,11 @@ variables and functions take on new names.
 
 ## the DOM (Document Object Model)
 
+**-The Dom (Document Object Model):**
+* The Dom (**D**ocument **O**bject **M**odel) is the data representation of the objects that comprise the structure and content of a document on the web.
+* The Dom (**D**ocument **O**bject **M**odel) is a programming interface for HTML and XML documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects. That way, programming languages can connect to the page.
+
+
 **- The HTML DOM (Document Object Model):**
 * The HTML DOM is a standard object model and programming interface for *HTML*, it defines:
 1. The *HTML* elements as **objects**
