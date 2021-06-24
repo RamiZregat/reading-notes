@@ -26,7 +26,7 @@ variables and functions take on new names.
 ## the DOM (Document Object Model)
 
 **- The HTML DOM (Document Object Model):**
-** The HTML DOM is a standard object model and programming interface for *HTML*, it defines:
+* The HTML DOM is a standard object model and programming interface for *HTML*, it defines:
 1. The *HTML* elements as **objects**
 2. The **properties** of all *HTML* elements.
 3. The **methods** to access all *HTML* elements.
