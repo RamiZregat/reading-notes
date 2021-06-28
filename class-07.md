@@ -36,5 +36,28 @@ The table body | with two columns
 
 **- JS Constructor Functions:**
 
-* 
+* Object: Object is the collection of related data or functionality in the form of key. This functionalities are usually consists of several functions and variables. All JavaScript values are objects except primitives.
+* Adding a property to Constructor: We cannot add a property to an existing constructor like adding a property to an object (see previous point), for adding a property we need to declare under the constructor.
+
+* Syntax for the constructor:
+```
+function Person(first, last, age, eye) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eye;
+}
+```
+
+* Object Types (Blueprints) (Classes):
+
+The examples from the previous chapters are limited. They only create single objects.
+
+Sometimes we need a "blueprint" for creating many objects of the same "type".
+
+The way to create an "object type", is to use an object constructor function.
+
+In the example above, function Person() is an object constructor function.
+
+Objects of the same type are created by calling the constructor function with the new keyword:
 
