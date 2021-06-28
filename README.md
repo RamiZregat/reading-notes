@@ -42,3 +42,4 @@ Page|Topic
 5|[HTML Images; CSS Color & Text Read:05.](https://ramizregat.github.io/reading-notes/class-05)
 6|[JS Object Literals, The DOM Read:06.](https://ramizregat.github.io/reading-notes/class-06)
 7| [HTML Tables; JS Constructor Functions](https://ramizregat.github.io/reading-notes/class-07)
+8|[More CSS Layout](https://ramizregat.github.io/reading-notes/class-08)
