@@ -44,3 +44,4 @@ Page|Topic
 7| [HTML Tables; JS Constructor Functions](https://ramizregat.github.io/reading-notes/class-07)
 8|[More CSS Layout](https://ramizregat.github.io/reading-notes/class-08)
 9|[Forms and Events](https://ramizregat.github.io/reading-notes/class-09)
+10|[JS Debugging](https://ramizregat.github.io/reading-notes/class-10)
