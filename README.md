@@ -45,3 +45,4 @@ Page|Topic
 8|[More CSS Layout](https://ramizregat.github.io/reading-notes/class-08)
 9|[Forms and Events](https://ramizregat.github.io/reading-notes/class-09)
 10|[JS Debugging](https://ramizregat.github.io/reading-notes/class-10)
+11|[Assorted Topics](https://ramizregat.github.io/reading-notes/class-11)
