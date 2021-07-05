@@ -47,3 +47,4 @@ Page|Topic
 10|[JS Debugging](https://ramizregat.github.io/reading-notes/class-10)
 11|[Assorted Topics](https://ramizregat.github.io/reading-notes/class-11)
 12|[Docs for the HTML `<canvas>` Element & Chart\.js](https://ramizregat.github.io/reading-notes/class-12)
+13|[Local Storage](https://ramizregat.github.io/reading-notes/class-13)
