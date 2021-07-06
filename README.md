@@ -48,3 +48,5 @@ Page|Topic
 11|[Assorted Topics](https://ramizregat.github.io/reading-notes/class-11)
 12|[Docs for the HTML `<canvas>` Element & Chart\.js](https://ramizregat.github.io/reading-notes/class-12)
 13|[Local Storage](https://ramizregat.github.io/reading-notes/class-13)
+14|[CSS Transforms, Transitions, and Animations](https://ramizregat.github.io/reading-notes/class-14a)
+15|[What Google Learned About Teams](https://ramizregat.github.io/reading-notes/class-14b)
