@@ -50,3 +50,14 @@ Page|Topic
 13|[Local Storage](https://ramizregat.github.io/reading-notes/class-13)
 14|[CSS Transforms, Transitions, and Animations](https://ramizregat.github.io/reading-notes/class-14a)
 15|[What Google Learned About Teams](https://ramizregat.github.io/reading-notes/class-14b)
+
+
+# Code 301 Reading Notes
+
+## Table of content:
+
+**This table has the content that we gave been learning so far:**
+
+Page|Topic
+----|----
+1| 
