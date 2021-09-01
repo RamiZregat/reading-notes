@@ -64,3 +64,4 @@ Page|Topic
 2|[State and Props](https://ramizregat.github.io/reading-notes/Reading-Class-02)
 3|[Passing Functions as Props](https://ramizregat.github.io/reading-notes/Reading-Class-03)
 4|[Readings: React and Forms](https://ramizregat.github.io/reading-notes/Reading-Class-04)
+5|[Putting it all together](https://ramizregat.github.io/reading-notes/Reading-Class-05)
