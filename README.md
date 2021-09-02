@@ -65,3 +65,4 @@ Page|Topic
 3|[Passing Functions as Props](https://ramizregat.github.io/reading-notes/Reading-Class-03)
 4|[Readings: React and Forms](https://ramizregat.github.io/reading-notes/Reading-Class-04)
 5|[Putting it all together](https://ramizregat.github.io/reading-notes/Reading-Class-05)
+6|[NODE.JS & Pair Programming](https://ramizregat.github.io/reading-notes/Reading-Class-06)
