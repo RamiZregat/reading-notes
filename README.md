@@ -66,3 +66,4 @@ Page|Topic
 4|[Readings: React and Forms](https://ramizregat.github.io/reading-notes/Reading-Class-04)
 5|[Putting it all together](https://ramizregat.github.io/reading-notes/Reading-Class-05)
 6|[NODE.JS & Pair Programming](https://ramizregat.github.io/reading-notes/Reading-Class-06)
+7|[REST and API Keys](https://ramizregat.github.io/reading-notes/Reading-Class-07)
