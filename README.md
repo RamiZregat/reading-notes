@@ -68,3 +68,4 @@ Page|Topic
 6|[NODE.JS & Pair Programming](https://ramizregat.github.io/reading-notes/Reading-Class-06)
 7|[REST and API Keys](https://ramizregat.github.io/reading-notes/Reading-Class-07)
 8|[APIs](https://ramizregat.github.io/reading-notes/Reading-Class-08)
+9|[FUNCTIONAL PROGRAMMING](https://ramizregat.github.io/reading-notes/Reading-Class-09)
