@@ -72,3 +72,4 @@ Page|Topic
 10|[In memory storage](https://ramizregat.github.io/reading-notes/Reading-Class-10)
 11|[Mongo and Mongoose](https://ramizregat.github.io/reading-notes/Reading-Class-11)
 12|[CRUD](https://ramizregat.github.io/reading-notes/Reading-Class-12)
+14|[Authentication](https://ramizregat.github.io/reading-notes/Reading-Class-14)
