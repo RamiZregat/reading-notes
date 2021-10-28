@@ -1,14 +1,15 @@
-# Code 102 Reading Notes
-## Introduction:
+
+# Introduction:
 
 - **My name is**: Rami Zregat.
 
-- **Age**:I'm 24 years old.
+- **Age**: I'm 24 years old.
 
-- **Back Ground**:I'm fresh graduated civil engineering.
+- **Back Ground**: I'm fresh graduated civil engineering.
 
-- **Passions**:I'm Looking to learn programming and coding.
+- **Passions**: I'm Looking to learn programming and coding.
 
+# Code 102 Reading Notes
 
  **This table has the content that we have been learning so far:**
 
@@ -74,3 +75,14 @@ Page|Topic
 12|[CRUD](https://ramizregat.github.io/reading-notes/Reading-Class-12)
 13|[Diversity & Inclusion in the Tech Industry](https://ramizregat.github.io/reading-notes/Reading-Class-13)
 14|[Authentication](https://ramizregat.github.io/reading-notes/Reading-Class-14)
+
+
+# Code 401 Reading Notes
+
+## Table of content:
+
+**This table has the content that we gave been learning so far:**
+
+Page|Topic
+---|---
+1|[Get Ready for 401](https://ramizregat.github.io/reading-notes/401-Reading-Class-00)
