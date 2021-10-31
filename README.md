@@ -86,3 +86,4 @@ Page|Topic
 Page|Topic
 ---|---
 1|[Get Ready for 401](https://ramizregat.github.io/reading-notes/401-Reading-Class-00)
+2|[Node Ecosystem, TDD, CI/CD](https://ramizregat.github.io/reading-notes/401-Reading-Class-01)
