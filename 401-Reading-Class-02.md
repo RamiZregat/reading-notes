@@ -61,3 +61,21 @@ Web Server |A web server is computer software and underlying hardware that accep
 Express|It is a web framework written in JS and hosted by node.js
 Routing|Routing is the process of selecting a path for traffic in a network or between or across multiple networks. Broadly, routing is performed in many types of networks, including circuit-switched networks, such as the public switched telephone network, and computer networks, such as the Internet.
 WRRC|web request/response cycle traces how a user’s request flows through the app.
+
+
+
+**- Which 3 things had you heard about previously and now have better clarity on?**  
+
+- middleware
+- the backend development
+- testing
+
+**- Which 3 things are you hoping to learn more about in the upcoming lecture/demo?**  
+
+- CI/CD
+- How can i test the whole project
+- routing
+
+**- What are you most excited about trying to implement or see how it works?**  
+
+that its actually works with me :) 
