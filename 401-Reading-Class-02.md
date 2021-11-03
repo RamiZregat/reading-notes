@@ -79,3 +79,28 @@ WRRC|web request/response cycle traces how a user’s request flows through the 
 **- What are you most excited about trying to implement or see how it works?**  
 
 that its actually works with me :) 
+
+
+
+## Preview
+**- NodeJS and Express:** 
+
+- What is difference between node JS and express JS?
+
+Express. js is a framework based on Node. js for which is used for building web-application using approaches and principles of Node. js.
+
+Feature|Node.js|Express.js
+-----|----|-----
+Level of features	|Fewer features|More features than Node.js
+Building Block	| It is built on Google's V8 engine| It is built on Node.js.	
+
+
+**- What is NPM?**  
+npm is the package manager for the Node JavaScript platform. It puts modules in place so that node can find them, and manages dependency conflicts intelligently.
+
+**- What is TDD?**  
+Test Driven Development (TDD) is a programming practice that instructs developers to write new code only if an automated test has failed.
+
+**- CI/CD**  
+CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development. The main concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment. CI/CD is a solution to the problems integrating new code can cause for development and operations teams.
+
