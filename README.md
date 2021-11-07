@@ -90,3 +90,4 @@ Page|Topic
 3|[Express](https://ramizregat.github.io/reading-notes/401-Reading-Class-02)
 3|[Express REST API](https://ramizregat.github.io/reading-notes/401-Reading-Class-03)
 4|[Data Modeling](https://ramizregat.github.io/reading-notes/401-Reading-Class-04)
+5|[Authentication](https://ramizregat.github.io/reading-notes/401-Reading-Class-05)
