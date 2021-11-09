@@ -1,75 +1,125 @@
+# Authentication  
 
-# Bearer Authorization
+####  Singleton
+A singleton or (singleton pattern) is a function or class which can have only one instance. It is a way of creating a single object that is shared with different part of the application or 3rd party users, without recreating it instance each time we want to use it
 
-1- **Write the following steps in the correct order:**
+Only one instance of this object can instantiate at a time.  
 
-- Receive access token
-- Redirect to a third party authentication endpoint
-- Register your application to get a client_id and client_secret
-- Make a request to a third-party API endpoint
-- Ask the client if they want to sign in via a third party
-- Receive authorization code
-- Make a request to the access token endpoint
+### Singleton in Node  
+1. We create a Singleton class in a js folder. We make a condition, that if there is no instance created, then we create it . After that we return the Singleton object.instance.  
 
-  1- Register your application to get a client_id and client_secret.
+```
+class Singleton {
+  constructor(){
+    if(!Singleton.instance){
+      Singleton.instance = this;
+    }
+    return Singleton.instance;
+  }
+}
+```    
+2. We instantiate our instance    
 
-  2- Ask the client if they want to sign in via a third party.
+```
+const ourInstance = new Singleton()  
+```
 
-  3- Redirect to a third party authentication endpoint.
+3. We export only the instance.  
+```
+module.exports = ourInstance;
+```  
+4. We import out instance to where we want to use it.  
 
-  4- Make a request to a third-party API endpoint
-
-  5- Receive authorization code.
-
-  6- Make a request to the access token endpoint.
-
-  7- Receive access token
+#### Approaches to construct/operate a middleware system  
+I'll look for what services that my app will present and it's interface with other apps, to so it's middleware system can be vital to accept or refuse the interface of requests.The app middleware should have access to all app services and it is the one that put the rules of weather they are good to be processed or not. 
 
 
-2- **What can you do with an authorization code?**
+## Terms  
+term | definition
+--- | ---
+Router Middleware | Router level middleware can be defined in the same way as application-level middleware
+Dynamic Module Loading | The dynamic module loader library allows code to retrieve Node modules from a web server, install them locally and serve them up as though they’d been manually deployed to the running server.
+Singleton Pattern | The Singleton Pattern limits the number of instances of a particular object to just one. This single instance is called the singleton.
+CRUD -> REST Method Matches | When the class is reduced to one instance, and the constructor is remembered, the same instance returns
+Mock Testing | Mock testing is an approach to unit testing that lets you make assertions about how the code under test is interacting with other system modules. In mock testing, the dependencies are replaced with objects that simulate the behavior of the real ones. … Such a service can be replaced with a mock object.   
 
-*For Authorization Code grant type, the first step is to issue an auth code to the client. The client will then get back with the auth code and client credentials to request for a token.*
 
-3- **What can you do with an access token?**
+## Preview  
+1. Which 3 things had you heard about previously and now have better clarity on?  
+  - Linked List.  
+  - middleware systems.  
+  - CRUD apps.  
 
-*It will include that token as a credential when making API requests. To do so, it should transmit the access token to the API as a Bearer credential in an HTTP Authorization header.*
+2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+  - Singletons
+  - middleware systems.
+  - Authentication
 
-4- **What’s a benefit of using OAuth instead of your own basic authentication?**
+3. What are you most excited about trying to implement or see how it works?
+  - Singleton Pattern
+  - Authentication
+  - More tests 
 
-  *Sharing user data between applications without sharing the user’s credentials. For ex: logging into spotify thru facebook or logging into codepen account using your github login credentials. “known as secure, third-party, user-agent, delegated authorization”. VOCAB Client ID username or some information unique to the user.*
 
-## Document the following Vocabulary Terms
+  ## Preparation Materials
 
-- **Client ID** is the unique identifier provided to an app upon registration.
-- **Client Secret** is a unique and confidential value held between the authorization server and authorized clients. It restricts the issuing of access tokens to trusted requestors.
-- **Authentication Endpoint** An API endpoint used for requesting access to resources.
-- **Access Token Endpoint** An API endpoint for requesting a token.
-- **API Endpoint** is the touch point between applications that points to the necessary resources; in other words where your request goes.
-- **Authorization Code** A random string generated by the authorization server and returned to the application as part of the authorization response. The authorization code is relatively short-lived and is exchanged for an Access Token at the token endpoint when using the Authorization Code Flow.
-- **Access Token** A credential that is used by an application to access an API. It informs the API that the bearer has been authorized
+ ### Securing Passwords
 
-## Preparation Materials
+ - Passwords are the first line of defense against cyber criminals. It is the most vital secret of every activity we do over the internet and also a final check to get into any of your user account, whether it is your bank account, email account, shopping cart account or any other account you have.
 
-### **JWTs Explained**
+ - We all know storing passwords in clear text in your database is ridiculous. Many desktop applications and almost every web service including, blogs, forums eventually need to store a collection of user data and the passwords, that has to be stored using a hashing algorithm.
 
-**What is JSON Web Token?**
 
-***JSON Web Token (JWT)*** is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
+- Cryptographic hash algorithms MD5, SHA1, SHA256, SHA512, SHA-3 are general purpose hash functions, designed to calculate a digest of huge amounts of data in as short a time as possible. Hashing is the greatest way for protecting passwords and considered to be pretty safe for ensuring the integrity of data or password.
 
-### **Intro to JWT**
+- The benefit of hashing is that if someone steals the database with hashed passwords, they only make off with the hashes and not the actual plaintext passwords. But why do we always hear about passwords being cracked? There are some weaknesses in cryptographic hash algorithm that allows an attacker to calculate the original value of a hashed password.
 
-**Why should we use JSON Web Tokens?**
+- PROBLEMS WITH CRYPTOGRAPHIC HASH ALGORITHM:
+1. Brute Force attack: Hashes can't be reversed, so instead of reversing the hash of the password, an attacker can simply keep trying different inputs until he does not find the right now that generates the same hash value, called brute force attack.
 
-Let's talk about the benefits of JSON Web Tokens (JWT) when compared to Simple Web Tokens (SWT) and Security Assertion Markup Language Tokens (SAML).
+2. Hash Collision attack: Hash functions have infinite input length and a predefined output length, so there is inevitably going to be the possibility of two different inputs that produce the same output hash. MD5, SHA1, SHA2 are vulnerable to Hash Collision Attack i.e. two input strings of a hash function that produce the same hash result.
 
-As JSON is less verbose than XML, when it is encoded its size is also smaller, making JWT more compact than SAML. This makes JWT a good choice to be passed in HTML and HTTP environments.
+3. BCrypt, IT's SLOW AND STRONG AS HELL
+To overcome such issues, we need algorithms which can make the brute force attacks slower and minimize the impact. Such algorithms are PBKDF2 and BCrypt, both of these algorithms use a technique called Key Stretching.
 
-Security-wise, SWT can only be symmetrically signed by a shared secret using the HMAC algorithm. However, JWT and SAML tokens can use a public/private key pair in the form of a X.509 certificate for signing. Signing XML with XML Digital Signature without introducing obscure security holes is very difficult when compared to the simplicity of signing JSON.
+### Basic Auth
 
-### **Are JWTs Secure?**
+- In the context of an HTTP transaction, basic access authentication is a method for an HTTP user agent (e.g. a web browser) to provide a user name and password when making a request. In basic HTTP authentication, a request contains a header field in the form of Authorization: Basic <credentials>, where credentials is the Base64 encoding of ID and password joined by a single colon `:`
 
-JWTs can be either signed, encrypted or both. If a token is signed, but not encrypted, everyone can read its contents, but when you don't know the private key, you can't change it. Otherwise, the receiver will notice that the signature won't match anymore.
+- When the server wants the user agent to authenticate itself towards the server after receiving an unauthenticated request, it must send a response with a HTTP 401 Unauthorized status line.
 
-Answer to your comment: I'm not sure if I understand your comment the right way. Just to be sure: do you know and understand digital signatures? I'll just briefly explain one variant (HMAC, which is symmetrical, but there are many others).
+### OWASP auth cheatsheet
 
-Let's assume Alice wants to send a JWT to Bob. They both know some shared secret. Mallory doesn't know that secret, but wants to interfere and change the JWT. To prevent that, Alice calculates Hash(payload + secret) and appends this as signature.
+- Authentication is the process of verifying that an individual, entity or website is whom it claims to be. Authentication in the context of web applications is commonly performed by submitting a username or ID and one or more items of private information that only a given user should know.
+
+- Session Management is a process by which a server maintains the state of an entity interacting with it. This is required for a server to remember how to react to subsequent requests throughout a transaction. Sessions are maintained on the server by a session identifier which can be passed back and forward between the client and server when transmitting and receiving requests. Sessions should be unique per user and computationally very difficult to predict
+
+
+### bcrypt docs
+
+- A library to help you hash passwords.
+
+- Verify that the node version you are using is a stable version; it has an even major release number. Unstable versions are currently not supported and issues created while using an unstable version will be closed.
+
+- installation:   
+Install via NPM 
+
+
+```
+npm install bcrypt
+```
+
+- Usage:   
+async (recommended):  
+
+
+```
+const bcrypt = require('bcrypt');
+const saltRounds = 10;
+const myPlaintextPassword = 's0/\/\P4$$w0rD';
+const someOtherPlaintextPassword = 'not_bacon';
+```
+
+
+- Why is async mode recommended over sync mode?   
+If you are using bcrypt on a simple script, using the sync mode is perfectly fine. However, if you are using bcrypt on a server, the async mode is recommended. This is because the hashing done by bcrypt is CPU intensive, so the sync version will block the event loop and prevent your application from servicing any other inbound requests or events. The async version uses a thread pool which does not block the main event loop.
