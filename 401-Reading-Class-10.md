@@ -24,7 +24,7 @@ Queue is a container of objects (a linear collection) that are inserted and remo
 
 ### Terminology  
 term | definition | Performance
---- | --- | ---
+--------|----------|-------
 Enqueue | Nodes or items that are added to the queue. | O(1)
 Dequeue | Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised | O(1)
 Front | This is the front/first Node of the queue. | -
