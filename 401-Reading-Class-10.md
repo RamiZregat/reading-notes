@@ -5,8 +5,11 @@
 A stack is a data structure that consists of `Nodes`. Each `Node` references the next Node in the stack, but does not reference its previous.  
 
 ### Terminology:
+
+
+
 term | definition | performance
---- | --- | ---
+---|---|---
 Push | Nodes are put in top of the stack. | time : O(1)
 Pop | Top node of the stack is removed. | time : O(1)
 Top | The final node to enter the stack. | time : O(1)
