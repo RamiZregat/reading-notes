@@ -23,14 +23,14 @@ Stacks follow the rules of `filo` or `lifo`, which means that the **last** node 
 Queue is a container of objects (a linear collection) that are inserted and removed according to the first-in first-out (FIFO) principle.
 
 ### Terminology  
-term | definition | Performance
---------|----------|-------
-Enqueue | Nodes or items that are added to the queue. | O(1)
-Dequeue | Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised | O(1)
-Front | This is the front/first Node of the queue. | -
-Rear |This is the rear/last Node of the queue | -
-Peek | viewing the front node of the queue | O(1)
-IsEmpty | returns true when queue is empty otherwise returns false  | O(1)  
+term | definition 
+--------|----------
+Enqueue | Nodes or items that are added to the queue.  O(1)
+Dequeue | Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised  O(1)
+Front | This is the front/first Node of the queue.  -
+Rear |This is the rear/last Node of the queue  -
+Peek | viewing the front node of the queue O(1)
+IsEmpty | returns true when queue is empty otherwise returns false  O(1)  
 
 ### Conceptions
 The **Queue** follow the rules of `LILO` or `FIFO`, when means that the first item in the queue will be the first item out of the queue  
