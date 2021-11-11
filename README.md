@@ -94,3 +94,4 @@ Page|Topic
 6|[Bearer Authorization](https://ramizregat.github.io/reading-notes/401-Reading-Class-07)
 7|[Access Control (ACL)](https://ramizregat.github.io/reading-notes/401-Reading-Class-08)
 8|[Authorization/Authentication](https://ramizregat.github.io/reading-notes/401-Reading-Class-09)
+9|[Stacks and Queues](https://ramizregat.github.io/reading-notes/401-Reading-Class-10)
