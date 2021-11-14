@@ -13,6 +13,9 @@ They reduce the tasks of an administrator or authorities when users take on diff
 
 
 ## Terms  
+
+
+
 term | definition 
 --- | ---
 Authorization | a security mechanism to determine access levels or user/client privileges related to system resources including files, services, computer programs, data and application features.
