@@ -96,3 +96,4 @@ Page|Topic
 8|[Authorization/Authentication](https://ramizregat.github.io/reading-notes/401-Reading-Class-09)
 9|[Stacks and Queues](https://ramizregat.github.io/reading-notes/401-Reading-Class-10)
 10|[Event Driven Applications](https://ramizregat.github.io/reading-notes/401-Reading-Class-11)
+11|[Socket.io](https://ramizregat.github.io/reading-notes/401-Reading-Class-12)
