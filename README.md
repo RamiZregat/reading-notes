@@ -98,4 +98,4 @@ Page|Topic
 10|[Event Driven Applications](https://ramizregat.github.io/reading-notes/401-Reading-Class-11)
 11|[Socket.io](https://ramizregat.github.io/reading-notes/401-Reading-Class-12)
 12|[Message Queues](https://ramizregat.github.io/reading-notes/401-Reading-Class-13)
-13|[Message Queues](https://ramizregat.github.io/reading-notes/401-Reading-Class-14)
+13|[Event Driven Architecture](https://ramizregat.github.io/reading-notes/401-Reading-Class-14)
