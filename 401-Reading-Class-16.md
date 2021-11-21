@@ -12,13 +12,20 @@ When a developer builds an application on his/her computer, it is locally stored
 
 ---  
 
+
 ## Term  
-Server : 
+Server :
+
   > A server is a computer program or device that provides a service to another computer program and its user, also known as the client. In a data center, the physical computer that a server program runs on is also frequently referred to as a server. That machine might be a dedicated server or it might be used for other purposes.  
+
 Pub/Sub:
+
   > Publish/Subscribe allows services to communicate asynchronously, with latencies on the order of 100 milliseconds. Pub/Sub is used for streaming analytics and data integration pipelines to ingest and distribute data. It is equally effective as messaging-oriented middleware for service integration or as a queue to parallelize tasks.  
+
 WRRC:
+
   > The request/response cycle traces how a user’s request flows through the app , it includes the client sending a request to the backend server , the backend server would do some process then send a response back to the client 
+  
 ---  
 
 ## Preparation Materials  
