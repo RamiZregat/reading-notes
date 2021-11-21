@@ -100,3 +100,4 @@ Page|Topic
 12|[Message Queues](https://ramizregat.github.io/reading-notes/401-Reading-Class-13)
 13|[Event Driven Architecture](https://ramizregat.github.io/reading-notes/401-Reading-Class-14)
 14|[Trees](https://ramizregat.github.io/reading-notes/401-Reading-Class-15)
+15|[AWS: Cloud Servers](https://ramizregat.github.io/reading-notes/401-Reading-Class-16)
