@@ -103,3 +103,4 @@ Page|Topic
 15|[AWS: Cloud Servers](https://ramizregat.github.io/reading-notes/401-Reading-Class-16)
 16|[AWS: S3 and Lambda](https://ramizregat.github.io/reading-notes/401-Reading-Class-17)
 17|[AWS: API, Dynamo and Lambda](https://ramizregat.github.io/reading-notes/401-Reading-Class-18)
+18|[AWS: Events](https://ramizregat.github.io/reading-notes/401-Reading-Class-19)
